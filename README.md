@@ -1,1 +1,2 @@
-# datacamp-introduction-to-r
+# Introduction to R (DataCamp)
+
